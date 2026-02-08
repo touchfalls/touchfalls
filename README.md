@@ -7,4 +7,4 @@
 
 - 🤔 I’m looking for help with java
 
-- 📫 How to reach me: **[telegram](https://t.me/keylyke)**
+- 📫 How to reach me: **[telegram](https://t.me/zqape)**
