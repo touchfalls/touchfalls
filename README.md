@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on **[bypass-manager](https://github.com/touchfalls/bypass-manager)**
+- 🔭 I’m currently working on **[functionaly-tg-bot](https://github.com/touchfalls/functionaly-tg-bot)**
 
 - 🌱 I’m currently **TRYING** to learn c++, c#
 
